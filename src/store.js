@@ -1,10 +1,14 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import { auth } from "@/firebase";
+import router from "@/router";
+import { userInfo } from "os";
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
+    usuario: {},
     name: "Albert",
     comics: [],
     url:
@@ -12,11 +16,29 @@ export default new Vuex.Store({
   },
 
   mutations: {
+    nuevoUsuario(state, payload) {
+      state.usuario = payload;
+    },
     setComics(state, data) {
       state.comics = data;
     }
   },
   actions: {
+    setUsuario({ commit }, user) {
+      const usuario = {
+        nombre: user.displayname,
+        email: user.email,
+        uid: user.uid,
+        foto: user.photoURL
+      };
+      commit("nuevoUsuario", usuario);
+    },
+    cerrarSesion({ commit }) {
+      auth.signOut();
+      commit("nuevoUsuario", null);
+      router.push({ name: "login" });
+    },
+
     getComics(context) {
       fetch(context.state.url)
         .then(json => json.json())

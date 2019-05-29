@@ -8,12 +8,15 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png"
           ></v-img>
           <v-spacer></v-spacer>
-          <!-- <v-btn color="#ED1D24" to="/">welcome</v-btn>
-          <v-btn color="#ED1D24" to="about">about</v-btn>-->
+          <!-- <!-- <v-btn color="#ED1D24" to="/">welcome</v-btn> -->
+          <v-btn class="login" color="#ED1D24" to="/login">Login</v-btn>
         </v-toolbar>
       </v-layout>
 
       <!-- preparando para el swipe -->
+      <div>
+        <!-- <p>Welcome {{usuario.nombre}}</p> -->
+      </div>
       <div
         class="flip-container"
         v-for="(comic, index) in comics"
@@ -27,7 +30,7 @@
           <div class="back">
             <h2>{{comic.title}}</h2>
             <p class="desc">{{comic.description}}</p>
-            <v-btn to="about">More info</v-btn>
+            <v-btn :to="'about/' + comic.id">More info</v-btn>
           </div>
         </v-card>
       </div>
@@ -41,6 +44,7 @@
 </template>
 
 <script>
+import { mapState } from "vuex";
 /* eslint-disable */
 export default {
   computed: {
@@ -51,6 +55,9 @@ export default {
   data: () => ({
     swipeDirection: "None"
   }),
+  ...mapState(["usuario"]),
+
+  /* RICO SWIPE*/
 
   methods: {
     swipe(direction) {
@@ -82,33 +89,21 @@ export default {
 
 
 
-<style>
+<style scoped>
+.login {
+  margin-left: -15px;
+  /* background-color: black; */
+  /* color: red; */
+}
 .logo {
   height: 50px;
 }
-/* .front {
-  display: flex;
-  flex-wrap: wrap-reverse;
-  justify-content: space-around;
-  height: auto;
-  width: auto;
-  margin-bottom: 50px;
-  margin-top: 50px;
-  //
-  z-index: 2;
-  transform: rotateY(0deg);
-  transition: all 0.3s linear;
-} */
+
 .navbar {
   position: relative;
 }
 /* // */
-/* .portada {
-  height: 100%;
-  width: 100%;
-  margin-bottom: 50px;
-  margin-top: 1000px;
-} */
+
 /* // */
 .mail {
   text-align: center;
@@ -119,37 +114,11 @@ export default {
 }
 /* // */
 
-/* .back {
-  transition: all 0.3s linear;
-  transform: rotateY(180deg);
-  display: flex;
-  flex-wrap: wrap-reverse;
-  justify-content: space-around;
-  height: auto;
-  width: auto;
-  margin-bottom: 50px;
-  margin-top: 50px;
-} */
 /* // */
-/* .container {
-  position: relative;
-}
 
-.container:hover .front {
-  transform: rotateY(180deg);
-}
-
-.container:hover .back {
-  transform: rotateY(360deg);
-} */
 /* // */
 
 .background {
-  /* background-image: linear-gradient(
-    to left,
-    rgba(255, 0, 0, 0),
-    rgba(255, 0, 0, 1)
-  ); */
   background-image: repeating-linear-gradient(
     #ed1d24,
     rgb(193, 178, 156) 10%,
@@ -162,6 +131,7 @@ export default {
 /* /uhoiuhgliuhgliuuhluhpuhjooiiuhp/ */
 .flip-container {
   perspective: 1000px;
+  margin-left: 10px;
 }
 /* flip the pane when hovered */
 .flip-container.hoverD .flipper {

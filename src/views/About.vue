@@ -8,15 +8,23 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png"
           ></v-img>
           <v-spacer></v-spacer>
-          <v-btn color="#ED1D24" to="home">Comics</v-btn>
         </v-toolbar>
       </v-layout>
 
-      <v-card>
-        <!-- Falta la acabar lo de la prop para imprimir comics por separado -->
-        <!-- <v-img :src="`${comic.thumbnail.path}.${comic.thumbnail.extension}`"/> -->
-        <p>donde va la info de cada comic</p>
-        <v-btn to="home">Home</v-btn>
+      <v-card v-if="comics" class="card">
+        <h1>{{comics.title}}</h1>
+        <v-img class="portada" :src="`${comics.thumbnail.path}.${comics.thumbnail.extension}`"/>
+        <p class="descripcion">{{comics.description}}</p>
+        <h3>Creators</h3>
+        <div class="creadores">
+          <p
+            v-for="(creator,index) in comics.creators.items"
+            :key="creator.name"
+          >{{creator.name}}({{creator.role}})</p>
+        </div>
+        <h3>Dates</h3>
+        <p v-for="(date,index) in comics.dates" :key="index">{{date.type}}:{{date.date}}</p>
+        <v-btn class="red lighten-2" to="/home">Back to comics</v-btn>
       </v-card>
 
       <v-spacer></v-spacer>
@@ -34,7 +42,7 @@ export default {
   props: ["comic"],
   computed: {
     comics() {
-      return this.$store.getters.dameComics;
+      return this.$store.getters.dameComics.find(c => c.id == this.comic);
     }
   }
 };
@@ -44,9 +52,28 @@ export default {
 
 
 
-<style>
+<style scoped>
+/* .creadores {
+ display: flex;
+} */
+.card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 10px;
+  background-color: #bdbdbd;
+}
+/* .descripcion {
+  
+} */
+.portada {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .logo {
-  margin-left: 1px;
+  height: 50px;
 }
 .mail {
   text-align: center;
