@@ -26,7 +26,7 @@ export default new Vuex.Store({
   actions: {
     setUsuario({ commit }, user) {
       const usuario = {
-        nombre: user.displayname,
+        nombre: user.displayName,
         email: user.email,
         uid: user.uid,
         foto: user.photoURL

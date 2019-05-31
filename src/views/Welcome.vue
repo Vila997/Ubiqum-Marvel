@@ -15,7 +15,17 @@
       alt="marvel"
       style="width:100%"
     >-->
-    <v-btn class="btn" to="home">Marvel comics</v-btn>
+
+    <!-- //////////////////////////////////// -->
+    <!-- <v-btn class="btn" to="home">Marvel comics</v-btn> -->
+    <!-- /////////////////////////////////////////// -->
+    <div class="center">
+      <v-btn class="boton" to="home" color="#ED1D24" fab large dark>
+        <h1 class="icono">M</h1>
+        <!-- <v-icon>alarm</v-icon> -->
+        <!-- <v-img src="https://banner2.kisspng.com/20180409/fuw/kisspng-the-infinity-gauntlet-youtube-thanos-t-shirt-glove-infinity-5acbada55eecb0.4757364115232977013888.jpg"></v-img> -->
+      </v-btn>
+    </div>
     <!-- </div> -->
     <!-- <v-footer color="#ED1D24" class="pa-3">
       <v-spacer></v-spacer>
@@ -79,6 +89,16 @@ export default {};
     rgba(255, 0, 0, 0),
     rgba(255, 0, 0, 1)
   ); */
+}
+.icono {
+  font-size: 60px;
+}
+.boton {
+}
+.center {
+  position: absolute;
+  top: 40%;
+  left: 40%;
 }
 /* .boton {
 } */

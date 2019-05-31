@@ -40,6 +40,14 @@ const router = new Router({
       meta: {
         requiresAuth: true
       }
+    },
+    {
+      path: "/chat",
+      name: "chat",
+      component: () => import("./views/chat.vue"),
+      meta: {
+        requiresAuth: true
+      }
     }
   ]
 });

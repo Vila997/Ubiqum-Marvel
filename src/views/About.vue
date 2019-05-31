@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <v-container>
-      <v-layout>
+      <!-- <v-layout>
         <v-toolbar color="#ED1D24">
           <v-img
             class="logo"
@@ -9,7 +9,7 @@
           ></v-img>
           <v-spacer></v-spacer>
         </v-toolbar>
-      </v-layout>
+      </v-layout>-->
 
       <v-card v-if="comics" class="card">
         <h1>{{comics.title}}</h1>
@@ -29,10 +29,6 @@
 
       <v-spacer></v-spacer>
       <!-- // footer -->
-      <v-footer color="#ED1D24" class="pa-3">
-        <p class="mail">avilacult@gmail.com</p>
-        <p class="año">&copy; 2019</p>
-      </v-footer>
     </v-container>
   </div>
 </template>
@@ -62,6 +58,7 @@ export default {
   text-align: center;
   margin-top: 10px;
   background-color: #bdbdbd;
+  margin-bottom: 20px;
 }
 /* .descripcion {
   
@@ -89,5 +86,12 @@ export default {
     rgb(193, 178, 156) 10%,
     #ed1d24
   );
+}
+.descripcion {
+  padding: 0 15px;
+  text-align: justify;
+}
+.creadores {
+  text-align: center;
 }
 </style>

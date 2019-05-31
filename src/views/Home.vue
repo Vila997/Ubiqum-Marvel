@@ -1,22 +1,6 @@
 <template>
   <div class="background">
     <v-container>
-      <v-layout>
-        <v-toolbar class="navbar" color="#ED1D24">
-          <v-img
-            class="logo"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png"
-          ></v-img>
-          <v-spacer></v-spacer>
-          <!-- <!-- <v-btn color="#ED1D24" to="/">welcome</v-btn> -->
-          <v-btn class="login" color="#ED1D24" to="/login">Login</v-btn>
-        </v-toolbar>
-      </v-layout>
-
-      <!-- preparando para el swipe -->
-      <div>
-        <!-- <p>Welcome {{usuario.nombre}}</p> -->
-      </div>
       <div
         class="flip-container"
         v-for="(comic, index) in comics"
@@ -30,15 +14,10 @@
           <div class="back">
             <h2>{{comic.title}}</h2>
             <p class="desc">{{comic.description}}</p>
-            <v-btn :to="'about/' + comic.id">More info</v-btn>
+            <v-btn color="info" :to="'about/' + comic.id">More info</v-btn>
           </div>
         </v-card>
       </div>
-      <v-footer color="#ED1D24" class="pa-3">
-        <v-spacer></v-spacer>
-        <p class="mail">avilacult@gmail.com</p>
-        <p class="año">2019&copy;</p>
-      </v-footer>
     </v-container>
   </div>
 </template>
@@ -90,6 +69,10 @@ export default {
 
 
 <style scoped>
+.desc {
+  padding: 0 20px;
+  text-align: justify;
+}
 .login {
   margin-left: -15px;
   /* background-color: black; */
@@ -174,7 +157,8 @@ export default {
   position: absolute;
   top: 0;
   left: 0;
-  margin-top: 10px;
+  margin-top: 0px;
+  background-color: #bdbdbd;
 }
 
 /* front pane, placed above back */
