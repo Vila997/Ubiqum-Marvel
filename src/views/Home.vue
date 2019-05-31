@@ -9,7 +9,6 @@
         v-for="(comic, index) in comics"
         :key="comic.id"
         v-touch="{left: (e) => swipe('Left'),right: (e) => swipe('Right')}"
-        v-if="comics.length > 0"
       >
         <v-card class="flipper" align-center justify-center style="height: 500px">
           <div class="front">
