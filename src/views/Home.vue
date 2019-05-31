@@ -9,6 +9,7 @@
         v-for="(comic, index) in comics"
         :key="comic.id"
         v-touch="{left: (e) => swipe('Left'),right: (e) => swipe('Right')}"
+        v-if="comics.length > 0"
       >
         <v-card class="flipper" align-center justify-center style="height: 500px">
           <div class="front">
@@ -20,6 +21,9 @@
             <v-btn color="info" :to="'about/' + comic.id">More info</v-btn>
           </div>
         </v-card>
+      </div>
+      <div v-if="comics.length == 0">
+        <p>NO COMICS FOUND</p>
       </div>
     </v-container>
   </div>
