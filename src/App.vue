@@ -6,7 +6,7 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png"
       ></v-img>
       <v-spacer></v-spacer>
-      <v-btn v-if="usuario != null" color="rgb(231, 105, 105)" to="/chat">Chat</v-btn>
+      <v-btn v-if="usuario != ''" color="rgb(231, 105, 105)" to="/chat">Chat</v-btn>
       <v-btn class="login" color="rgb(231, 105, 105)" to="/login">Login</v-btn>
     </v-toolbar>
     <v-content>

@@ -55,7 +55,7 @@ export default {
         const user = result.user;
         console.log(user);
         const usuario = {
-          nombre: user.displayname,
+          nombre: user.displayName,
           email: user.email,
           uid: user.uid,
           foto: user.photoURL

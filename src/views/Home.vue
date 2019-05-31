@@ -1,6 +1,9 @@
 <template>
   <div class="background">
     <v-container>
+      <p class="text-xs-center" v-if="usuario != ''">
+        <b>Welcome {{usuario.nombre}}</b>
+      </p>
       <div
         class="flip-container"
         v-for="(comic, index) in comics"
@@ -29,12 +32,12 @@ export default {
   computed: {
     comics() {
       return this.$store.getters.dameComics;
-    }
+    },
+    ...mapState(["usuario"])
   },
   data: () => ({
     swipeDirection: "None"
   }),
-  ...mapState(["usuario"]),
 
   /* RICO SWIPE*/
 
@@ -107,6 +110,7 @@ export default {
     rgb(193, 178, 156) 10%,
     #ed1d24
   );
+  height: 100%;
 }
 /* /uhoiuhgliuhgliuuhluhpuhjooiiuhp/ */
 /* /uhoiuhgliuhgliuuhluhpuhjooiiuhp/ */
