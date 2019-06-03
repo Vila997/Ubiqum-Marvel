@@ -24,7 +24,7 @@
           </v-btn>
           <!-- no va el log out intenté ponerle un to home a ver si se actualizaba al darle al boton -->
           <div class="botones">
-            <v-btn color="error" class="cerrado" @click="cerrarSesion()" to="/home">Log out</v-btn>
+            <v-btn color="error" class="cerrado" @click="cerrarSesion()" >Log out</v-btn>
             <v-btn color="success" to="/home">Back to Comics</v-btn>
           </div>
         </v-card>
