@@ -1,7 +1,7 @@
 <template>
   <div class="background">
     <v-container>
-      <p class="text-xs-center" v-if="usuario != ''">
+      <p class="text-xs-center" v-if="usuario != null || ''">
         <b>Welcome {{usuario.nombre}}</b>
       </p>
       <div
