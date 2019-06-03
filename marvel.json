@@ -1,0 +1,2853 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2019 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2019 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2019 MARVEL</a>",
+  "etag": "0ef1dc4d00607b0c0a1221117ebe01cb1f5ae268",
+  "data": {
+    "offset": 0,
+    "limit": 18,
+    "total": 2953,
+    "count": 18,
+    "results": [
+      {
+        "id": 38751,
+        "digitalId": 0,
+        "title": "5 Ronin (2010) #5 (MCGUINNESS COVER)",
+        "issueNumber": 5,
+        "variantDescription": "MCGUINNESS COVER",
+        "description": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story.",
+        "modified": "2011-03-25T11:24:51-0400",
+        "isbn": "",
+        "upc": "5960607394-00521",
+        "diamondCode": "JAN110674",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38751",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38751/5_ronin_2010_5_mcguinness_cover/mcguinness_cover?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36160",
+            "name": "5 Ronin (2010) #5"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-30T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-03-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4d8773dfaccdb",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4d8773dfaccdb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d890a36852bc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d890a03da849",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4d89091c6efba",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4d8907e170b26",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38751/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+              "name": "Leandro Fernandez",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "name": "Ed Mcguinness",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38751/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38751/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90403",
+              "name": "5 Ronin #5 McGuinness Variant",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90404",
+              "name": "5 Ronin #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38751/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 35204,
+        "digitalId": 20141,
+        "title": "5 Ronin (2010) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "The Way Of The Butterfly. A young half-Japanese girl is sold into slavery and forced into a life of servitude. But when a familiar Ronin comes and challenges everything she thought she knew, her life will change forever.",
+        "modified": "2017-08-11T18:11:25-0400",
+        "isbn": "",
+        "upc": "5960607394-00411",
+        "diamondCode": "NOV108271",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The Way Of The Butterfly. A young half-Japanese girl is sold into slavery and forced into a life of servitude. But when a familiar Ronin comes and challenges everything she thought she knew, her life will change forever."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35204",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35204/5_ronin_2010_4?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/5-Ronin-4/digital-comic/20141?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=20141&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/20141?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38752",
+            "name": "5 Ronin (2010) #4 (MACK COVER)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-03-08T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-02-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-04-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/598e2b7f8c062",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/598e2b7f8c062",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4d83c917d7c54",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4d83c89b2bd58",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/4d83c85b79f7e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4d83c8057d561",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4d83c7a4b03ea",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/4d83c75414708",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4d83c6a133b11",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4d8104f7b714c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d4051f89bbf8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4d1aa33108875",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/4d1aa2fa22000",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/00/4d1aa2b1603f0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35204/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35204/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35204/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80038",
+              "name": "Interior #80038",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90349",
+              "name": "5 Ronin #4",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35204/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 38756,
+        "digitalId": 19853,
+        "title": "5 Ronin (2010) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "17th century Japan: a time and place of violent upheaval. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes as you've never seen them before!",
+        "modified": "2017-08-11T18:17:16-0400",
+        "isbn": "",
+        "upc": "75960607394800121",
+        "diamondCode": "JAN110670",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "17th century Japan: a time and place of violent upheaval. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes as you've never seen them before!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38756",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38756/5_ronin_2010_1?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/5-Ronin-1/digital-comic/19853?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19853&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/19853?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36162",
+            "name": "5 Ronin (2010) #1 (AJA Cover)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-02T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-02-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-03-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/598e2ab495a36",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/598e2ab495a36",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4d641360a1713",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38756/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+              "name": "John Cassaday",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+              "name": "Tomm Coker",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8309",
+              "name": "Daniel Freedman",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+              "name": "Laura Martin",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38756/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38756/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/89879",
+              "name": "5 Ronin #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/89880",
+              "name": "5 Ronin #1 ",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38756/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 38753,
+        "digitalId": 0,
+        "title": "5 Ronin (2010) #2 (BROOKS COVER)",
+        "issueNumber": 2,
+        "variantDescription": "BROOKS COVER",
+        "description": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story.",
+        "modified": "2018-02-17T09:08:26-0500",
+        "isbn": "",
+        "upc": "75960607394800221",
+        "diamondCode": "JAN110671",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38753",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38753/5_ronin_2010_2_brooks_cover/brooks_cover?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36365",
+            "name": "5 Ronin (2010) #2"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-09T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4d6d544dbef82",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4d6d544dbef82",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d404fbbd1782",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4d220773b6b07",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/4d220740cd33b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4d22070250036",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38753/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+              "name": "Mark Brooks",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+              "name": "Dalibor Talajic",
+              "role": "inker"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38753/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38753/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80749",
+              "name": "5 Ronin #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90011",
+              "name": "5 Ronin #2 Brooks Cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38753/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36162,
+        "digitalId": 0,
+        "title": "5 Ronin (2010) #1 (AJA Cover)",
+        "issueNumber": 1,
+        "variantDescription": "AJA Cover",
+        "description": "5 Books, 5 Heroes, 1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow of vengeance!\n5 Books, 5 Heroes, 5 Weeks, 1 spell-binding story.",
+        "modified": "2018-02-17T09:08:27-0500",
+        "isbn": "",
+        "upc": "75960607394800111",
+        "diamondCode": "NOV108268",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes, 1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow of vengeance!\n5 Books, 5 Heroes, 5 Weeks, 1 spell-binding story."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36162",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36162/5_ronin_2010_1_aja_cover/aja_cover?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38756",
+            "name": "5 Ronin (2010) #1"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-02T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d641456a5930",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d641456a5930",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36162/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+              "name": "David Aja",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+              "name": "Tomm Coker",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8309",
+              "name": "Daniel Freedman",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36162/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36162/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80047",
+              "name": "5 Ronin #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/89880",
+              "name": "5 Ronin #1 ",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36162/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 35220,
+        "digitalId": 20016,
+        "title": "5 Ronin (2010) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "It is 17th century Japan, a time and place of violent upheaval. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before.",
+        "modified": "2017-08-11T18:12:04-0400",
+        "isbn": "",
+        "upc": "5960607394-00311",
+        "diamondCode": "NOV108270",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "It is 17th century Japan, a time and place of violent upheaval. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35220",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35220/5_ronin_2010_3?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/5-Ronin-3/digital-comic/20016?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=20016&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/20016?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38754",
+            "name": "5 Ronin (2010) #3 (CAMUNCOLI COVER)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-03-01T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-02-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-04-12T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/598e2ba6a01c2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/598e2ba6a01c2",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4d7a842e647a1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4d7a4c377dda9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d7a54e4a81b9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d7a52302dfe5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d7a4e78de143",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4d22089a2437e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4d22086b9b05d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4d22083f6ae3c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35220/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35220/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+              "name": "Punisher"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35220/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80052",
+              "name": "5 RONIN 3 AJA COVER  ",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90212",
+              "name": "5 Ronin #3 Aja Cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/35220/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36365,
+        "digitalId": 19924,
+        "title": "5 Ronin (2010) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "It is 17th century Japan, a time and place of violent upheaval. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Prepare for the Marvel heroes like you've never seen them before.",
+        "modified": "2018-02-17T09:08:25-0500",
+        "isbn": "",
+        "upc": "75960607394800211",
+        "diamondCode": "NOV108269",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "It is 17th century Japan, a time and place of violent upheaval. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Prepare for the Marvel heroes like you've never seen them before."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36365",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36365/5_ronin_2010_2?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/5-Ronin-2/digital-comic/19924?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19924&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/19924?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38753",
+            "name": "5 Ronin (2010) #2 (BROOKS COVER)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-09T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-02-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-04-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/598e2bafe656c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/598e2bafe656c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4d6d5348638ae",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d404fbbd1782",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4d220773b6b07",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/4d220740cd33b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4d22070250036",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36365/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+              "name": "David Aja",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+              "name": "Dalibor Talajic",
+              "role": "inker"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36365/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36365/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80748",
+              "name": "5 Ronin #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80749",
+              "name": "5 Ronin #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36365/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36160,
+        "digitalId": 20257,
+        "title": "5 Ronin (2010) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "Travel back to medieval Japan to see Deadpool as you've never seen him before. This is the fifth ronin. Prepare for a wayward samurai's battle that may end in oblivion!",
+        "modified": "2017-08-11T18:10:59-0400",
+        "isbn": "",
+        "upc": "5960607394-00511",
+        "diamondCode": "NOV108272",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Travel back to medieval Japan to see Deadpool as you've never seen him before. This is the fifth ronin. Prepare for a wayward samurai's battle that may end in oblivion!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36160",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36160/5_ronin_2010_5?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/5-Ronin-5/digital-comic/20257?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=20257&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/20257?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38751",
+            "name": "5 Ronin (2010) #5 (MCGUINNESS COVER)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-30T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-03-15T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-02-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-04-26T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/598e2b64ccbf9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/598e2b64ccbf9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4d877506ca1b5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d890a36852bc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d890a03da849",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4d89091c6efba",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4d8907e170b26",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4d8904c3f0f78",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d89044abf6e2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36160/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+              "name": "David Aja",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+              "name": "Leandro Fernandez",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36160/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36160/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80039",
+              "name": "5 Ronin #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90404",
+              "name": "5 Ronin #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36160/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 38754,
+        "digitalId": 0,
+        "title": "5 Ronin (2010) #3 (CAMUNCOLI COVER)",
+        "issueNumber": 3,
+        "variantDescription": "CAMUNCOLI COVER",
+        "description": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story.",
+        "modified": "2011-03-15T01:31:24-0400",
+        "isbn": "",
+        "upc": "75960607394800321",
+        "diamondCode": "JAN110672",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38754",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38754/5_ronin_2010_3_camuncoli_cover/camuncoli_cover?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35220",
+            "name": "5 Ronin (2010) #3"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4d7a84c3e56b6",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4d7a84c3e56b6",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38754/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+              "name": "Giuseppe Camuncoli",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'ARMATA",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38754/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38754/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90100",
+              "name": "5 RONIN 3 CAMUNCOLI VARIANT ",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90213",
+              "name": "5 Ronin #3 Camuncoli Cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38754/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 38752,
+        "digitalId": 0,
+        "title": "5 Ronin (2010) #4 (MACK COVER)",
+        "issueNumber": 4,
+        "variantDescription": "MACK COVER",
+        "description": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story.",
+        "modified": "2011-03-22T01:31:02-0400",
+        "isbn": "",
+        "upc": "75960607394800421",
+        "diamondCode": "JAN110673",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "5 Books, 5 Heroes-1 unforgettable story of heroes pushed to their limits.  It is 17th century Japan, a time and place of violent upheaval, wandering Ronin, and mysterious Geisha. Into this strange and dangerous world come Wolverine, Pyslocke, Punisher, Hulk and Deadpool. Five of Marvel's greatest heroes...as you've never seen them before. Each has been wronged by a powerful tyrant. Each has taken a solemn vow...of vengeance!\n5 Books, 5 Heroes, 5 Weeks...1 spell-binding story."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38752",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38752/5_ronin_2010_4_mack_cover/mack_cover?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+          "name": "5 Ronin (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35204",
+            "name": "5 Ronin (2010) #4"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d8105b95b48c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d8105b95b48c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d83c6ec029e9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38752/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+              "name": "David Mack",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/674",
+              "name": "Goran Parlov",
+              "role": "penciler"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38752/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+              "name": "Psylocke"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38752/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90334",
+              "name": "Cover #90334",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90335",
+              "name": "Interior #90335",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38752/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36599,
+        "digitalId": 0,
+        "title": "5 Ronin TPB (Trade Paperback)",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "In the age of samurai, death is their only master. Wolverine - the undying killer. Hulk - the barely contained monster. Punisher - the soldier without a war. Psylocke - the beauty who can look within you. Deadpool - the world's most dangerous fool. In feudal Japan, the spirits of these five heroes live on as you've never seen them before. These aren't super heroes. They are disgraced warriors, masterless samurai. They are 5 Ronin. Collecting 5 RONIN #1-5.",
+        "modified": "2011-11-17T13:15:20-0500",
+        "isbn": "978-0-7851-5101-2",
+        "upc": "",
+        "diamondCode": "SEP110660",
+        "ean": "9780785 151012 51699",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 136,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In the age of samurai, death is their only master. Wolverine - the undying killer. Hulk - the barely contained monster. Punisher - the soldier without a war. Psylocke - the beauty who can look within you. Deadpool - the world's most dangerous fool. In feudal Japan, the spirits of these five heroes live on as you've never seen them before. These aren't super heroes. They are disgraced warriors, masterless samurai. They are 5 Ronin. Collecting 5 RONIN #1-5."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36599",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/36599/5_ronin_tpb_trade_paperback?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12989",
+          "name": "5 Ronin TPB (2010 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-11-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-11-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 16.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4ec5410027e90",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4ec5410027e90",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36599/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+              "name": "David Aja",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+              "name": "John Cassaday",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+              "name": "Tomm Coker",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/674",
+              "name": "Goran Parlov",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10082",
+              "name": "Dalibor Talajic",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36599/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36599/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81222",
+              "name": "Cover #81222",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81223",
+              "name": "Interior #81223",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36599/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 33323,
+        "digitalId": 0,
+        "title": "Age of Heroes (2010) #1 (HEROIC AGE VARIANT)",
+        "issueNumber": 1,
+        "variantDescription": "HEROIC AGE VARIANT",
+        "description": "Eisner-winner & fan-favorite KURT BUSIEK RETURNS TO MARVEL!\r\nTHE HEROIC AGE IS HERE!\r\nThe Heroes are restored to their rightful place in this new era, and the world is safer for them.  They defeated Osborn & his Siege on Asgard, now they have one last foe to face: the Mayor of New York -- J. Jonah Jameson!  Also, MI13 come to the US, but one of them isn't leaving--they are defecting to the AVENGERS?! Plus Dr. Voodoo's Sorcerer Supreme duties infringe on \"date night\" and how much trouble can Spider-Man get into in one day? The answer: A LOT!\r\nRated T  ...$3.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960607125-00121",
+        "diamondCode": "MAR100535",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Eisner-winner & fan-favorite KURT BUSIEK RETURNS TO MARVEL!\r\nTHE HEROIC AGE IS HERE!\r\nThe Heroes are restored to their rightful place in this new era, and the world is safer for them.  They defeated Osborn & his Siege on Asgard, now they have one last foe to face: the Mayor of New York -- J. Jonah Jameson!  Also, MI13 come to the US, but one of them isn't leaving--they are defecting to the AVENGERS?! Plus Dr. Voodoo's Sorcerer Supreme duties infringe on \"date night\" and how much trouble can Spider-Man get into in one day? The answer: A LOT!\r\nRated T  ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33323",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33323/age_of_heroes_2010_1_heroic_age_variant/heroic_age_variant?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9790",
+          "name": "Age of Heroes (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36522",
+            "name": "Age of Heroes (2010) #1 (2ND PRINTING VARIANT)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30090",
+            "name": "Age of Heroes (2010) #1"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-05-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-04-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bed7bd8118aa",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bed7bd8118aa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bec467c0e660",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bec46760e962",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bec46706341c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bec44d570070",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bec44d212521",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bec44cedf4d5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bec44cb94e2b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33323/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+              "name": "Mike Perkins",
+              "role": "penciller"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33323/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33323/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69007",
+              "name": "Interior #69007",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/74917",
+              "name": "Cover #74917",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/74919",
+              "name": "Interior #74919",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33323/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 30092,
+        "digitalId": 15247,
+        "title": "Age of Heroes (2010) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2011-10-13T16:49:42-0400",
+        "isbn": "",
+        "upc": "5960607125-00311",
+        "diamondCode": "MAY100574",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30092",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30092/age_of_heroes_2010_3?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=15247&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9790",
+          "name": "Age of Heroes (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-07-21T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-07-10T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-05-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56afb12ce64dc",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56afb12ce64dc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c3ddb1b769f7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c3ddb154735d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c3ddb0f04436",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4c3ddb0897ac3",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c3dd944d4002",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4c3dd93e7826d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c3dd937a2169",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30092/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12226",
+              "name": "Jean-&#8203;Francois Beaulieu",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10454",
+              "name": "Nathan Fairbairn",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10859",
+              "name": "JORGE FARES MAESE RAMIREZ",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8706",
+              "name": "Jay David Ramos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10783",
+              "name": "John Rauch",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+              "name": "Matt Fraction",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4990",
+              "name": "Kevin Grevioux",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+              "name": "Fred Van Lente",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7219",
+              "name": "MICHEL Lacombe",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+              "name": "Victor Olazaba",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4074",
+              "name": "Walden Wong",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+              "name": "Dave Lanphear",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8728",
+              "name": "Jefte Palo",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1129",
+              "name": "Yanick Paquette",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/918",
+              "name": "Ty Templeton",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8138",
+              "name": "Brad Walker",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5851",
+              "name": "M. C. Wyman",
+              "role": "penciller"
+            }
+          ],
+          "returned": 17
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30092/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011335",
+              "name": "Maria Hill"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+              "name": "Sharon Carter"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010860",
+              "name": "Squirrel Girl"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+              "name": "Taskmaster"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30092/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69010",
+              "name": "Cover #69010",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69011",
+              "name": "Interior #69011",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30092/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 33566,
+        "digitalId": 14927,
+        "title": "Age of Heroes (2010) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "THE HEROIC AGE IS HERE!\r\nThe Heroic Age continues in this next set of star-studded stories told in the Mighty Marvel Manner! In a special YOUNG ALLIES prelude story, Greg Willis makes the Wisconsin-to-Manhattan trek once more--but will he be leaving GRAVITY behind this time? Spider-Man encounters the new super hero in town...Norman Osborn's AMERICAN SON?! But the man wearing the armor is the last guy Spidey expects! In the Age of Heroes, the YOUNG MASTERS must decide whose side they're on and, with the Dark Reign lifted, THE GAUNTLET soldiers on--all the way to Afghanistan.\r\nRated T  ...$3.99",
+        "modified": "2013-11-27T11:14:54-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "APR100561",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "THE HEROIC AGE IS HERE!\r\nThe Heroic Age continues in this next set of star-studded stories told in the Mighty Marvel Manner! In a special YOUNG ALLIES prelude story, Greg Willis makes the Wisconsin-to-Manhattan trek once more--but will he be leaving GRAVITY behind this time? Spider-Man encounters the new super hero in town...Norman Osborn's AMERICAN SON?! But the man wearing the armor is the last guy Spidey expects! In the Age of Heroes, the YOUNG MASTERS must decide whose side they're on and, with the Dark Reign lifted, THE GAUNTLET soldiers on--all the way to Afghanistan.\r\nRated T  ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33566",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33566/age_of_heroes_2010_2?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=14927&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9790",
+          "name": "Age of Heroes (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-06-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-05-27T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-02-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/56afaf31b0b7f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/56afaf31b0b7f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33566/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33566/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011432",
+              "name": "Enchantress (Sylvie Lushton)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009316",
+              "name": "Gauntlet (Joseph Green)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010702",
+              "name": "Gravity"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33566/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113200",
+              "name": "Cover from Age of Heroes (2010) #2",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33566/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36522,
+        "digitalId": 0,
+        "title": "Age of Heroes (2010) #1 (2ND PRINTING VARIANT)",
+        "issueNumber": 1,
+        "variantDescription": "2ND PRINTING VARIANT",
+        "description": "Eisner-winner & fan-favorite KURT BUSIEK RETURNS TO MARVEL!\r\nTHE HEROIC AGE IS HERE!\r\nThe Heroes are restored to their rightful place in this new era, and the world is safer for them.  They defeated Osborn & his Siege on Asgard, now they have one last foe to face: the Mayor of New York -- J. Jonah Jameson!  Also, MI13 come to the US, but one of them isn't leaving--they are defecting to the AVENGERS?! Plus Dr. Voodoo's Sorcerer Supreme duties infringe on \"date night\" and how much trouble can Spider-Man get into in one day? The answer: A LOT!\r\nRated T  ...$3.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960607125-00131",
+        "diamondCode": "APR108128",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Eisner-winner & fan-favorite KURT BUSIEK RETURNS TO MARVEL!\r\nTHE HEROIC AGE IS HERE!\r\nThe Heroes are restored to their rightful place in this new era, and the world is safer for them.  They defeated Osborn & his Siege on Asgard, now they have one last foe to face: the Mayor of New York -- J. Jonah Jameson!  Also, MI13 come to the US, but one of them isn't leaving--they are defecting to the AVENGERS?! Plus Dr. Voodoo's Sorcerer Supreme duties infringe on \"date night\" and how much trouble can Spider-Man get into in one day? The answer: A LOT!\r\nRated T  ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36522",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36522/age_of_heroes_2010_1_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9790",
+          "name": "Age of Heroes (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30090",
+            "name": "Age of Heroes (2010) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33323",
+            "name": "Age of Heroes (2010) #1 (HEROIC AGE VARIANT)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-06-30T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-06-10T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c0924bc2b047",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c0924bc2b047",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36522/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36522/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36522/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81068",
+              "name": "Cover #81068",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81069",
+              "name": "Interior #81069",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36522/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 30090,
+        "digitalId": 14633,
+        "title": "Age of Heroes (2010) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Eisner-winner & fan-favorite KURT BUSIEK RETURNS TO MARVEL!\r\nTHE HEROIC AGE IS HERE!\r\nThe Heroes are restored to their rightful place in this new era, and the world is safer for them.  They defeated Osborn & his Siege on Asgard, now they have one last foe to face: the Mayor of New York -- J. Jonah Jameson!  Also, MI13 come to the US, but one of them isn't leaving--they are defecting to the AVENGERS?! Plus Dr. Voodoo's Sorcerer Supreme duties infringe on \"date night\" and how much trouble can Spider-Man get into in one day? The answer: A LOT!\r\nRated T  ...$3.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960607125-00111",
+        "diamondCode": "MAR100534",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Eisner-winner & fan-favorite KURT BUSIEK RETURNS TO MARVEL!\r\nTHE HEROIC AGE IS HERE!\r\nThe Heroes are restored to their rightful place in this new era, and the world is safer for them.  They defeated Osborn & his Siege on Asgard, now they have one last foe to face: the Mayor of New York -- J. Jonah Jameson!  Also, MI13 come to the US, but one of them isn't leaving--they are defecting to the AVENGERS?! Plus Dr. Voodoo's Sorcerer Supreme duties infringe on \"date night\" and how much trouble can Spider-Man get into in one day? The answer: A LOT!\r\nRated T  ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30090",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30090/age_of_heroes_2010_1?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=14633&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9790",
+          "name": "Age of Heroes (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36522",
+            "name": "Age of Heroes (2010) #1 (2ND PRINTING VARIANT)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33323",
+            "name": "Age of Heroes (2010) #1 (HEROIC AGE VARIANT)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-05-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-04-29T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-01-04T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/56afac804fff2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/56afac804fff2",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bec467c0e660",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bec46760e962",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bec46706341c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bec44d570070",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bec44d212521",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bec44cedf4d5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bec44cb94e2b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30090/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/653",
+              "name": "Greg Tocchini",
+              "role": "penciler"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30090/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+              "name": "Captain Britain"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30090/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69006",
+              "name": "Cover #69006",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69007",
+              "name": "Interior #69007",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30090/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 30093,
+        "digitalId": 15721,
+        "title": "Age of Heroes (2010) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "The Heroic Age continues with more titantic tales from across the mighty Marvel U! Follow Shuri, the deadly Black Panther, as she sets the world on fire crossing paths, and claws, with the rest of MU! Find out the truth behind Captain America's time on ice and the native peoples who stumbled across his frosty tomb! PLUS: Zodiac's back and ready for the Age of Villains to begin...and Steve Rogers: Super-Soldier has an all-new assignment for Initiative cadet Cloud 9!\r\nRated T  ...$3.99",
+        "modified": "2011-10-05T11:10:29-0400",
+        "isbn": "",
+        "upc": "5960607125-00411",
+        "diamondCode": "JUN100566",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Heroic Age continues with more titantic tales from across the mighty Marvel U! Follow Shuri, the deadly Black Panther, as she sets the world on fire crossing paths, and claws, with the rest of MU! Find out the truth behind Captain America's time on ice and the native peoples who stumbled across his frosty tomb! PLUS: Zodiac's back and ready for the Age of Villains to begin...and Steve Rogers: Super-Soldier has an all-new assignment for Initiative cadet Cloud 9!\r\nRated T  ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30093",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30093/age_of_heroes_2010_4?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=15721&utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9790",
+          "name": "Age of Heroes (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-08-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-07-29T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-07-12T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/56afb296896a9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/56afb296896a9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4c7c3d49186ca",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c6198d04e0ef",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4c6198ca28a7a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c6198c41c277",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4c6198bde3210",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4c619707a37e2",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c6196fb24a80",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30093/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/159",
+              "name": "Joe Casey",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13164",
+              "name": "Elliott Kalan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10200",
+              "name": "Jonathan Maberry",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12983",
+              "name": "Dan Slott",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9778",
+              "name": "Nathan Fox",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+              "name": "Jae Lee",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8142",
+              "name": "Brendan McCarthy",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5131",
+              "name": "Shawn Moll",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/918",
+              "name": "Ty Templeton",
+              "role": "penciller"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30093/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010823",
+              "name": "Cloud 9"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30093/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69012",
+              "name": "Cover #69012",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69013",
+              "name": "Interior #69013",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/30093/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 37660,
+        "digitalId": 0,
+        "title": "AGE OF ULTRON TPB (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Humanity's time is over. Submit or perish, because the Age of Ultron has arrived! The artificial intelligence known as Ultron has fought for years to eradicate mankind - and now, it has all but succeeded. The few remaining heroes are battered, broken, almost beaten and left considering desperate measures - some more desperate than others. But when Wolverine breaks ranks and pursues his own plan to defeat Ultron, will his drastic action cause more problems than it solves? Brian Michael Bendis presents the ultimate triumph of the Avengers' greatest villain in an epic that will shake worlds! Collecting AVENGERS (2010) #12.1 and AGE OF ULTRON #1-10.",
+        "modified": "2014-05-05T12:43:19-0400",
+        "isbn": "978-0-7851-5566-9",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 155669 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 280,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Humanity's time is over. Submit or perish, because the Age of Ultron has arrived! The artificial intelligence known as Ultron has fought for years to eradicate mankind - and now, it has all but succeeded. The few remaining heroes are battered, broken, almost beaten and left considering desperate measures - some more desperate than others. But when Wolverine breaks ranks and pursues his own plan to defeat Ultron, will his drastic action cause more problems than it solves? Brian Michael Bendis presents the ultimate triumph of the Avengers' greatest villain in an epic that will shake worlds! Collecting AVENGERS (2010) #12.1 and AGE OF ULTRON #1-10."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37660",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/37660/age_of_ultron_tpb_trade_paperback?utm_campaign=apiRef&utm_source=3ad7e6764a07767e22d32a10db24c0ea"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13543",
+          "name": "AGE OF ULTRON TPB (2010 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-05-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-04-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5367bd7894a2e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5367bd7894a2e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37660/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+              "name": "Butch Guice",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+              "name": "Alex Maleev",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+              "name": "David Marquez",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+              "name": "Carlos Pacheco",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+              "name": "Brandon Peterson",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+              "name": "Joe Quesada",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37660/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37660/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/83248",
+              "name": "Cover #83248",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/83249",
+              "name": "Interior #83249",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37660/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

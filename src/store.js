@@ -40,9 +40,14 @@ export default new Vuex.Store({
     },
 
     getComics(context) {
-      fetch(context.state.url)
-        .then(json => json.json())
-        .then(data => context.commit("setComics", data.data.results));
+      // fetch(context.state.url)
+      //   .then(json => json.json())
+      //   .then(data => context.commit("setComics", data.data.results));
+      fetch("https://api.myjson.com/bins/fxfaf")
+        .then(data => data.json())
+        .then(data => {
+          context.commit("setComics", data.data.results);
+        });
     }
   },
   getters: {
